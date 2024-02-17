@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
 <head>
-  <p> Bienvenue </p>
+  <p> Bienvenue sur ma page GitHub !</p>
 </head>
 </html>
