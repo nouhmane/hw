@@ -1,12 +1,7 @@
 <html>
 <head>
-    <title>Salut tout le monde !</title>
+      <h1>Salut tout le monde !</h1>
 </head>
-  <body>
-      
 
-
-    
-  </body>
 
 </html>
