@@ -6,7 +6,7 @@
             <p>Création d'un petit programme qui permet d'effectuer n'importe quelle opération en C++</p>
             <p>Création d'un mini jeu dont le principe est de trouver le nombre mystère !</p>
             <h3><b><p>Langages et Framework :</p></b></h3>
-            <p>- HTML/CSS, PHP, C/C++, PYTHON</p>
+            <p>- HTML/CSS, JAVASCRIPT, PHP, C/C++, PYTHON</p>
             <p>- React, Node.js</p>
 </head>
 
