@@ -1,5 +1,12 @@
 <html>
 <head>
-  <p> Bienvenue sur ma page GitHub !</p>
+    <title>Salut tout le monde !</title>
 </head>
+  <body>
+      
+
+
+    
+  </body>
+
 </html>
